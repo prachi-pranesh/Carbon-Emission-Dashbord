@@ -1,1 +1,1 @@
-<img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/pharma-title-image.png?raw=true" width="1325" height="1638" />
+<img src="https://github.com/prachi-pranesh/Carbon-Emission-Dashbord/blob/main/Carbon-Emission-Project-SQL-and-PowerBI--main/Carbon%20Emission%20and%20how%20to%20reduce_page-0001.jpg" width="1325" height="1638" />
